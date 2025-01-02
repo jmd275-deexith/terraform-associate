@@ -17,7 +17,7 @@ Terraform Associate Learning Path : https://developer.hashicorp.com/terraform/tu
     Exam Content List
     Sample Questions
 
-If time permits : Terraform CDK in Goalang & Dependancy Graphs
+If time permits : Terraform CDK in Goalang & Dependancy Graph
 
 Project which can be Done : 
     Docker image building replacement and deployment, 
